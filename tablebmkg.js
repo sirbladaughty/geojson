@@ -1,9 +1,5 @@
-﻿[
-    [
-        "Lintang (°)",
-        "Bujur (°)",
-        "Magnitudo (SR)"
-    ],
+﻿var quakePoints = 
+[
     [
         -0.55,
         119.72334,
