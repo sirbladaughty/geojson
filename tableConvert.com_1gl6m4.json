@@ -1,0 +1,1950 @@
+﻿[
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Sistem Peringatan Dini Tsunami Indonesia (InaTEWS)"
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Lintang"
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Bujur"
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Kedalaman"
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Magnitude"
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Rentang Waktu"
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": ""
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": ""
+    },
+    {
+        "": "",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": ""
+    },
+    {
+        "": "Magnitudo (SR)",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "Lintang (°)"
+    },
+    {
+        "": "3.93",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.55"
+    },
+    {
+        "": "2.97",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.81"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.17"
+    },
+    {
+        "": "4.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.5"
+    },
+    {
+        "": "2.87",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.05"
+    },
+    {
+        "": "2.5",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.46"
+    },
+    {
+        "": "3.65",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.8"
+    },
+    {
+        "": "3.2",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.53"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.09"
+    },
+    {
+        "": "3.27",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.23"
+    },
+    {
+        "": "3.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.89"
+    },
+    {
+        "": "3.47",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.55"
+    },
+    {
+        "": "3.54",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.23"
+    },
+    {
+        "": "3.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2"
+    },
+    {
+        "": "3.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.3"
+    },
+    {
+        "": "3.44",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.93"
+    },
+    {
+        "": "4.28",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0"
+    },
+    {
+        "": "3.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.55"
+    },
+    {
+        "": "3.85",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.42"
+    },
+    {
+        "": "3.54",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.37"
+    },
+    {
+        "": "3.46",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.09"
+    },
+    {
+        "": "3.33",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.28"
+    },
+    {
+        "": "3.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.18"
+    },
+    {
+        "": "2.85",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.19"
+    },
+    {
+        "": "3.41",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.82"
+    },
+    {
+        "": "2.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.76"
+    },
+    {
+        "": "3.43",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.06"
+    },
+    {
+        "": "3.63",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.12"
+    },
+    {
+        "": "3.78",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.29"
+    },
+    {
+        "": "3.35",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.3"
+    },
+    {
+        "": "3.44",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.43"
+    },
+    {
+        "": "3.1",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "2.98",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.01"
+    },
+    {
+        "": "3.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.12"
+    },
+    {
+        "": "3.67",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.01"
+    },
+    {
+        "": "3.33",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.39"
+    },
+    {
+        "": "3.17",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.87"
+    },
+    {
+        "": "3.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.93"
+    },
+    {
+        "": "3.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "3.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.52"
+    },
+    {
+        "": "3.83",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.38"
+    },
+    {
+        "": "4.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.43"
+    },
+    {
+        "": "4.29",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.31"
+    },
+    {
+        "": "2.58",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.37"
+    },
+    {
+        "": "3.44",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.65"
+    },
+    {
+        "": "3.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.59"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.66"
+    },
+    {
+        "": "3.29",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.3"
+    },
+    {
+        "": "4.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.18"
+    },
+    {
+        "": "3.68",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.93"
+    },
+    {
+        "": "3.15",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.64"
+    },
+    {
+        "": "3.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.05"
+    },
+    {
+        "": "3.83",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.41"
+    },
+    {
+        "": "3.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.23"
+    },
+    {
+        "": "4.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.33"
+    },
+    {
+        "": "3.18",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "3.57",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.36"
+    },
+    {
+        "": "4.64",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.24"
+    },
+    {
+        "": "4.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.2"
+    },
+    {
+        "": "4.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.24"
+    },
+    {
+        "": "3.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.32"
+    },
+    {
+        "": "4.46",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.33"
+    },
+    {
+        "": "3.75",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.89"
+    },
+    {
+        "": "3.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.31"
+    },
+    {
+        "": "4.43",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.39"
+    },
+    {
+        "": "4.67",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.26"
+    },
+    {
+        "": "3.18",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.26"
+    },
+    {
+        "": "3.13",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.51"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.15"
+    },
+    {
+        "": "3.35",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.36"
+    },
+    {
+        "": "3.78",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.13"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.02"
+    },
+    {
+        "": "3.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1"
+    },
+    {
+        "": "3.66",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.51"
+    },
+    {
+        "": "4.21",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.22"
+    },
+    {
+        "": "3.15",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.68"
+    },
+    {
+        "": "3.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.83"
+    },
+    {
+        "": "3.05",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.46"
+    },
+    {
+        "": "3.91",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.18"
+    },
+    {
+        "": "3.59",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.29"
+    },
+    {
+        "": "3.02",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.39"
+    },
+    {
+        "": "3.1",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.74"
+    },
+    {
+        "": "3.26",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.52"
+    },
+    {
+        "": "3.86",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.3"
+    },
+    {
+        "": "3.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.18"
+    },
+    {
+        "": "3.94",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.49"
+    },
+    {
+        "": "3.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.44"
+    },
+    {
+        "": "3.13",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.32"
+    },
+    {
+        "": "2.95",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.22"
+    },
+    {
+        "": "3.04",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.2"
+    },
+    {
+        "": "3.62",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.21"
+    },
+    {
+        "": "3.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "4.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.09"
+    },
+    {
+        "": "4.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.02"
+    },
+    {
+        "": "4.38",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.43"
+    },
+    {
+        "": "3.28",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.4"
+    },
+    {
+        "": "3.32",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.3"
+    },
+    {
+        "": "3.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.26"
+    },
+    {
+        "": "3.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.55"
+    },
+    {
+        "": "3.63",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.05"
+    },
+    {
+        "": "3.23",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.26"
+    },
+    {
+        "": "3.6",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.8"
+    },
+    {
+        "": "4.38",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.47"
+    },
+    {
+        "": "3.44",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.8"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.64"
+    },
+    {
+        "": "4.58",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.24"
+    },
+    {
+        "": "3.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.66"
+    },
+    {
+        "": "4.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.96"
+    },
+    {
+        "": "3.83",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.9"
+    },
+    {
+        "": "3.7",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.5"
+    },
+    {
+        "": "3.4",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.32"
+    },
+    {
+        "": "2.9",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.61"
+    },
+    {
+        "": "4.41",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.61"
+    },
+    {
+        "": "4.46",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.31"
+    },
+    {
+        "": "4.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.3"
+    },
+    {
+        "": "4.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.31"
+    },
+    {
+        "": "4.57",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.28"
+    },
+    {
+        "": "3.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.35"
+    },
+    {
+        "": "4.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.05"
+    },
+    {
+        "": "3.56",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.79"
+    },
+    {
+        "": "3.17",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.07"
+    },
+    {
+        "": "3.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.83"
+    },
+    {
+        "": "3.9",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.22"
+    },
+    {
+        "": "3.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.23"
+    },
+    {
+        "": "3.29",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.11"
+    },
+    {
+        "": "3.12",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0"
+    },
+    {
+        "": "3.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.22"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.35"
+    },
+    {
+        "": "3.8",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.03"
+    },
+    {
+        "": "4.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.04"
+    },
+    {
+        "": "3.65",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.21"
+    },
+    {
+        "": "3.09",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.07"
+    },
+    {
+        "": "3.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.6"
+    },
+    {
+        "": "4.01",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.64"
+    },
+    {
+        "": "3.58",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.24"
+    },
+    {
+        "": "3.18",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.35"
+    },
+    {
+        "": "2.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.42"
+    },
+    {
+        "": "2.98",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.85"
+    },
+    {
+        "": "2.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.51"
+    },
+    {
+        "": "3.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.82"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.2"
+    },
+    {
+        "": "2.83",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.07"
+    },
+    {
+        "": "3.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.2"
+    },
+    {
+        "": "3.42",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.07"
+    },
+    {
+        "": "2.93",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.64"
+    },
+    {
+        "": "3.23",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.43"
+    },
+    {
+        "": "3.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.46"
+    },
+    {
+        "": "3.33",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.39"
+    },
+    {
+        "": "3.6",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "2.9",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.4"
+    },
+    {
+        "": "4.67",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.98"
+    },
+    {
+        "": "3.05",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.16"
+    },
+    {
+        "": "4.04",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.39"
+    },
+    {
+        "": "4.56",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.56"
+    },
+    {
+        "": "2.64",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.46"
+    },
+    {
+        "": "3.91",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.08"
+    },
+    {
+        "": "5.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.59"
+    },
+    {
+        "": "3.31",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.42"
+    },
+    {
+        "": "3.5",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.66"
+    },
+    {
+        "": "3.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.08"
+    },
+    {
+        "": "3.22",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.4"
+    },
+    {
+        "": "4.1",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.02"
+    },
+    {
+        "": "3.22",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2"
+    },
+    {
+        "": "3.6",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "3.22",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.03"
+    },
+    {
+        "": "3.26",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.31"
+    },
+    {
+        "": "3.13",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.22"
+    },
+    {
+        "": "2.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.55"
+    },
+    {
+        "": "3.27",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.62"
+    },
+    {
+        "": "3.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.6"
+    },
+    {
+        "": "5.33",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.61"
+    },
+    {
+        "": "3.54",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.01"
+    },
+    {
+        "": "3.13",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.51"
+    },
+    {
+        "": "3.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.16"
+    },
+    {
+        "": "2.83",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.04"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.31"
+    },
+    {
+        "": "2.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.3"
+    },
+    {
+        "": "3.62",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.06"
+    },
+    {
+        "": "2.94",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.52"
+    },
+    {
+        "": "3.41",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.24"
+    },
+    {
+        "": "2.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.24"
+    },
+    {
+        "": "2.92",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.56"
+    },
+    {
+        "": "3.26",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.66"
+    },
+    {
+        "": "3.14",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.63"
+    },
+    {
+        "": "3.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.15"
+    },
+    {
+        "": "4.68",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.32"
+    },
+    {
+        "": "4.05",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.23"
+    },
+    {
+        "": "3.92",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.12"
+    },
+    {
+        "": "3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.35"
+    },
+    {
+        "": "3.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.01"
+    },
+    {
+        "": "5.08",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.57"
+    },
+    {
+        "": "3.97",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.65"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.5"
+    },
+    {
+        "": "3.68",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.24"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.2"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.08"
+    },
+    {
+        "": "3.7",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.25"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.78"
+    },
+    {
+        "": "3.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.32"
+    },
+    {
+        "": "3.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.42"
+    },
+    {
+        "": "2.94",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.2"
+    },
+    {
+        "": "4.04",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.61"
+    },
+    {
+        "": "3.05",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.15"
+    },
+    {
+        "": "2.96",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.16"
+    },
+    {
+        "": "3.28",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0"
+    },
+    {
+        "": "3.45",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.49"
+    },
+    {
+        "": "3.44",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-3.43"
+    },
+    {
+        "": "3.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.6"
+    },
+    {
+        "": "3.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.04"
+    },
+    {
+        "": "2.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.05"
+    },
+    {
+        "": "3.01",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.19"
+    },
+    {
+        "": "3.75",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.01"
+    },
+    {
+        "": "3.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.48"
+    },
+    {
+        "": "3.09",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.06"
+    },
+    {
+        "": "3.2",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.39"
+    },
+    {
+        "": "3.21",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.25"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.28"
+    },
+    {
+        "": "3.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.37"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.96"
+    },
+    {
+        "": "3.36",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.15"
+    },
+    {
+        "": "5.24",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.01"
+    },
+    {
+        "": "3.21",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.92"
+    },
+    {
+        "": "2.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.16"
+    },
+    {
+        "": "2.73",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.03"
+    },
+    {
+        "": "3.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.43"
+    },
+    {
+        "": "3.33",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.01"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.72"
+    },
+    {
+        "": "3.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.76"
+    },
+    {
+        "": "3.92",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.09"
+    },
+    {
+        "": "3.26",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.85"
+    },
+    {
+        "": "3.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.5"
+    },
+    {
+        "": "3.6",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.14"
+    },
+    {
+        "": "3.87",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.2"
+    },
+    {
+        "": "3.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.31"
+    },
+    {
+        "": "3.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.51"
+    },
+    {
+        "": "3.57",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.49"
+    },
+    {
+        "": "3.85",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.04"
+    },
+    {
+        "": "3.87",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "3.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.36"
+    },
+    {
+        "": "3.15",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.89"
+    },
+    {
+        "": "3.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.84"
+    },
+    {
+        "": "3.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.53"
+    },
+    {
+        "": "3.47",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "3.68",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.53"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.47"
+    },
+    {
+        "": "3.6",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.5"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.48"
+    },
+    {
+        "": "3.94",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.16"
+    },
+    {
+        "": "3.57",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.99"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.14"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.13"
+    },
+    {
+        "": "4.35",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.34"
+    },
+    {
+        "": "4.8",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.32"
+    },
+    {
+        "": "3.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.58"
+    },
+    {
+        "": "4.08",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.04"
+    },
+    {
+        "": "3.56",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.35"
+    },
+    {
+        "": "3.48",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.07"
+    },
+    {
+        "": "3.54",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "3.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.89"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.38"
+    },
+    {
+        "": "3.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.46"
+    },
+    {
+        "": "3.46",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.31"
+    },
+    {
+        "": "4.22",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.01"
+    },
+    {
+        "": "3.47",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.43"
+    },
+    {
+        "": "3.75",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.44"
+    },
+    {
+        "": "3.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.49"
+    },
+    {
+        "": "3.32",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.62"
+    },
+    {
+        "": "3.14",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.43"
+    },
+    {
+        "": "3.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0"
+    },
+    {
+        "": "3.14",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.6"
+    },
+    {
+        "": "3.27",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.78"
+    },
+    {
+        "": "3.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.12"
+    },
+    {
+        "": "3.54",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.41"
+    },
+    {
+        "": "4.27",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.11"
+    },
+    {
+        "": "3.67",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.01"
+    },
+    {
+        "": "3.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.27"
+    },
+    {
+        "": "4.39",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.64"
+    },
+    {
+        "": "3.54",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.66"
+    },
+    {
+        "": "3.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "4.09",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.05"
+    },
+    {
+        "": "3.75",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.42"
+    },
+    {
+        "": "3.59",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.92"
+    },
+    {
+        "": "3.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.27"
+    },
+    {
+        "": "3.46",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.73"
+    },
+    {
+        "": "3.51",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.02"
+    },
+    {
+        "": "2.82",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.08"
+    },
+    {
+        "": "3.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.27"
+    },
+    {
+        "": "4.02",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.35"
+    },
+    {
+        "": "4.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.41"
+    },
+    {
+        "": "3.4",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.17"
+    },
+    {
+        "": "3.47",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.34"
+    },
+    {
+        "": "3.58",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.56"
+    },
+    {
+        "": "3.38",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.28"
+    },
+    {
+        "": "3.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.5"
+    },
+    {
+        "": "4.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.5"
+    },
+    {
+        "": "3.91",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.21"
+    },
+    {
+        "": "4.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.48"
+    },
+    {
+        "": "3.79",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.26"
+    },
+    {
+        "": "3.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.17"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.31"
+    },
+    {
+        "": "4.15",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.36"
+    },
+    {
+        "": "3.91",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.26"
+    },
+    {
+        "": "3.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.46"
+    },
+    {
+        "": "3.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.96"
+    },
+    {
+        "": "4.09",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.02"
+    },
+    {
+        "": "4.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.24"
+    },
+    {
+        "": "4.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.19"
+    },
+    {
+        "": "3.66",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.06"
+    },
+    {
+        "": "4.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.51"
+    },
+    {
+        "": "3.16",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.5"
+    },
+    {
+        "": "3.5",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.38"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.32"
+    },
+    {
+        "": "3.9",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.13"
+    },
+    {
+        "": "3.68",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.02"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.52"
+    },
+    {
+        "": "4.4",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "3.46",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.56"
+    },
+    {
+        "": "3.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.14"
+    },
+    {
+        "": "3.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.04"
+    },
+    {
+        "": "3.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.53"
+    },
+    {
+        "": "3.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.43"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.24"
+    },
+    {
+        "": "4.16",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.65"
+    },
+    {
+        "": "3.92",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.16"
+    },
+    {
+        "": "3.83",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.2"
+    },
+    {
+        "": "4.01",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "4.43",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.62"
+    },
+    {
+        "": "3.47",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.17"
+    },
+    {
+        "": "3.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.04"
+    },
+    {
+        "": "3.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.23"
+    },
+    {
+        "": "3.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.41"
+    },
+    {
+        "": "4.35",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.06"
+    },
+    {
+        "": "3.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.6"
+    },
+    {
+        "": "3.42",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.63"
+    },
+    {
+        "": "3.68",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.07"
+    },
+    {
+        "": "3.9",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "3.45",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.38"
+    },
+    {
+        "": "3.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.05"
+    },
+    {
+        "": "4.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.06"
+    },
+    {
+        "": "3.57",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.39"
+    },
+    {
+        "": "3.56",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "3.81",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.52"
+    },
+    {
+        "": "4.15",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.48"
+    },
+    {
+        "": "4.56",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.38"
+    },
+    {
+        "": "3.5",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.67"
+    },
+    {
+        "": "3.41",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.66"
+    },
+    {
+        "": "3.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.32"
+    },
+    {
+        "": "4.29",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "4.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "3.58",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.48"
+    },
+    {
+        "": "3.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.56"
+    },
+    {
+        "": "4.5",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.38"
+    },
+    {
+        "": "3.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "3.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.18"
+    },
+    {
+        "": "3.64",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.41"
+    },
+    {
+        "": "3.92",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.83"
+    },
+    {
+        "": "3.93",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.74"
+    },
+    {
+        "": "4.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.48"
+    },
+    {
+        "": "3.82",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.45"
+    },
+    {
+        "": "4.22",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.34"
+    },
+    {
+        "": "3.89",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.47"
+    },
+    {
+        "": "4.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.44"
+    },
+    {
+        "": "4.02",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.28"
+    },
+    {
+        "": "4.01",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.37"
+    },
+    {
+        "": "4.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.27"
+    },
+    {
+        "": "4.09",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.38"
+    },
+    {
+        "": "3.8",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.38"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "3.64",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.36"
+    },
+    {
+        "": "4.14",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.48"
+    },
+    {
+        "": "4.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.46"
+    },
+    {
+        "": "4.41",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.37"
+    },
+    {
+        "": "4.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.51"
+    },
+    {
+        "": "3.94",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.21"
+    },
+    {
+        "": "3.8",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.41"
+    },
+    {
+        "": "4.26",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.62"
+    },
+    {
+        "": "3.78",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.33"
+    },
+    {
+        "": "4.04",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.09"
+    },
+    {
+        "": "4.61",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "3.77",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.68"
+    },
+    {
+        "": "3.67",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.24"
+    },
+    {
+        "": "4.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.26"
+    },
+    {
+        "": "4.09",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.02"
+    },
+    {
+        "": "3.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.37"
+    },
+    {
+        "": "4.73",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.58"
+    },
+    {
+        "": "3.8",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.55"
+    },
+    {
+        "": "4.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.54"
+    },
+    {
+        "": "4.62",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.41"
+    },
+    {
+        "": "4.74",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.08"
+    },
+    {
+        "": "4.66",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.49"
+    },
+    {
+        "": "4.59",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.29"
+    },
+    {
+        "": "4.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.67"
+    },
+    {
+        "": "4.39",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.45"
+    },
+    {
+        "": "4.35",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.49"
+    },
+    {
+        "": "4.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.41"
+    },
+    {
+        "": "4.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.06"
+    },
+    {
+        "": "4.28",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.21"
+    },
+    {
+        "": "4.14",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.1"
+    },
+    {
+        "": "4.42",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.01"
+    },
+    {
+        "": "4.08",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.04"
+    },
+    {
+        "": "3.23",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.42"
+    },
+    {
+        "": "3.64",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.37"
+    },
+    {
+        "": "4.44",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.04"
+    },
+    {
+        "": "3.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.08"
+    },
+    {
+        "": "4.53",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.5"
+    },
+    {
+        "": "4.51",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.45"
+    },
+    {
+        "": "4.22",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.21"
+    },
+    {
+        "": "3.4",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.17"
+    },
+    {
+        "": "4.3",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-3.12"
+    },
+    {
+        "": "4.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.09"
+    },
+    {
+        "": "4.07",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.22"
+    },
+    {
+        "": "4.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.04"
+    },
+    {
+        "": "4.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.36"
+    },
+    {
+        "": "3.95",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.13"
+    },
+    {
+        "": "4.2",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.06"
+    },
+    {
+        "": "4.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.17"
+    },
+    {
+        "": "3.85",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.03"
+    },
+    {
+        "": "4.34",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "3.82",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.64"
+    },
+    {
+        "": "3.9",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.53"
+    },
+    {
+        "": "3.27",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.13"
+    },
+    {
+        "": "3.66",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.09"
+    },
+    {
+        "": "4.35",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "4.39",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.03"
+    },
+    {
+        "": "4.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.89"
+    },
+    {
+        "": "4.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.44"
+    },
+    {
+        "": "4.1",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.07"
+    },
+    {
+        "": "3.77",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.97"
+    },
+    {
+        "": "4.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.02"
+    },
+    {
+        "": "4.31",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.36"
+    },
+    {
+        "": "4.05",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.54"
+    },
+    {
+        "": "4.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.05"
+    },
+    {
+        "": "4.1",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.71"
+    },
+    {
+        "": "3.58",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.23"
+    },
+    {
+        "": "4.03",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.05"
+    },
+    {
+        "": "4.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.23"
+    },
+    {
+        "": "4.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.28"
+    },
+    {
+        "": "4.73",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.75"
+    },
+    {
+        "": "4.05",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.14"
+    },
+    {
+        "": "4.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.25"
+    },
+    {
+        "": "4.23",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.71"
+    },
+    {
+        "": "3.84",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.43"
+    },
+    {
+        "": "4.33",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.36"
+    },
+    {
+        "": "4.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.2"
+    },
+    {
+        "": "4.66",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.51"
+    },
+    {
+        "": "4.39",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.42"
+    },
+    {
+        "": "4.57",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-1.67"
+    },
+    {
+        "": "4.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.04"
+    },
+    {
+        "": "4.69",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.24"
+    },
+    {
+        "": "3.08",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.29"
+    },
+    {
+        "": "3.52",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.12"
+    },
+    {
+        "": "3.76",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.4"
+    },
+    {
+        "": "4.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.16"
+    },
+    {
+        "": "4.39",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.27"
+    },
+    {
+        "": "4.25",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.38"
+    },
+    {
+        "": "4.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.26"
+    },
+    {
+        "": "4.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.3"
+    },
+    {
+        "": "4.02",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.31"
+    },
+    {
+        "": "3.93",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.12"
+    },
+    {
+        "": "3.49",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.35"
+    },
+    {
+        "": "3.11",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.2"
+    },
+    {
+        "": "4.19",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.02"
+    },
+    {
+        "": "3.73",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.26"
+    },
+    {
+        "": "3.8",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.37"
+    },
+    {
+        "": "4.39",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.32"
+    },
+    {
+        "": "4.31",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.33"
+    },
+    {
+        "": "3.7",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.21"
+    },
+    {
+        "": "4.41",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.19"
+    },
+    {
+        "": "3.24",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.25"
+    },
+    {
+        "": "4.71",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.24"
+    },
+    {
+        "": "4.55",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.09"
+    },
+    {
+        "": "4.37",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-0.35"
+    },
+    {
+        "": "3.24",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.42"
+    },
+    {
+        "": "3.12",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.37"
+    },
+    {
+        "": "3.72",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "-2.54"
+    },
+    {
+        "": "2.88",
+        "Badan Meteorologi Klimatologi dan Geofisika (BMKG)": "0.07"
+    }
+]
